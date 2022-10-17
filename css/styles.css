@@ -1,0 +1,157 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #212121;
+}
+.header-color {
+  background-color: #ffffff;
+}
+.logo-link {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.38;
+  text-decoration: none;
+  color: black;
+}
+.logo-link:hover,
+.logo-link:focus {
+  color: #2196f3;
+}
+
+.logo-first-letters {
+  font-family: Raleway;
+  font-weight: 700;
+  color: #2196f3;
+  line-height: 1.38;
+}
+.contact {
+  font-weight: 500;
+  color: #757575;
+  line-height: 1.2;
+  font-family: inherit;
+}
+.nav-name {
+  text-decoration: none;
+  line-height: 1.17;
+  color: black;
+  font-family: inherit;
+}
+.nav-name:hover,
+.contact:hover,
+.nav-name:focus,
+.contact:focus {
+  color: #2196f3;
+}
+.title {
+  background-color: #2f303a;
+  text-align: center;
+}
+.page-title {
+  font-weight: 900;
+  color: white;
+  line-height: 1.36;
+  font-family: inherit;
+}
+.button-title {
+  background-color: #2196f3;
+  color: white;
+  border-color: #2196f3;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  cursor: pointer;
+  font-family: inherit;
+}
+.main-text {
+  background-color: #e5e5e5;
+}
+.lorem-title {
+  color: inherit;
+  font-weight: 700;
+  line-height: 1.17;
+  font-family: inherit;
+}
+.lorem-text {
+  color: #757575;
+  line-height: 1.71;
+  font-family: inherit;
+}
+.our-jobs {
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  color: inherit;
+  line-height: 1.17;
+  font-family: inherit;
+}
+.team-backgrond {
+  color: #f5f4fa;
+  font-family: inherit;
+}
+.name {
+  font-weight: 500;
+  font-size: 16px;
+  color: inherit;
+  line-height: 1.17;
+  font-family: inherit;
+}
+.working-at {
+  color: #757575;
+  line-height: 1.17;
+  font-family: inherit;
+}
+.address-letters {
+  color: white;
+  line-height: 1.71;
+  font-style: normal;
+  font-family: inherit;
+}
+
+.address-color {
+  background-color: #2f303a;
+}
+.address-contact {
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.71;
+  font-style: normal;
+  font-family: inherit;
+}
+
+.footer-logo-link {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.38;
+  text-decoration: none;
+  color: white;
+}
+.button-portfolio:hover,
+.button-portfolio:focus {
+  background-color: #2196f3;
+  color: white;
+  border-color: #2196f3;
+}
+.button-portfolio {
+  font-weight: 500;
+  background-color: #f5f4fa;
+  color: inherit;
+  border-color: #f5f4fa;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.62;
+  cursor: pointer;
+  font-family: inherit;
+}
+.name-of-picture {
+  font-weight: 700;
+  color: inherit;
+  font-size: 18px;
+  line-height: 2;
+  font-family: inherit;
+}
+.item {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1.87;
+  font-family: inherit;
+}
